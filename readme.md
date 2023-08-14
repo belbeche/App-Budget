@@ -18,7 +18,7 @@ Easily manage and keep track of your budget with the Budget Management Applicati
 
 1. **Clone the repository**:
 
-git clone git@github.com:belbeche/Gestion-Budget---JS.git
+git clone git@github.com:belbeche/App-Budget.git
 
 
 2. Navigate to the directory where you've cloned the project.
